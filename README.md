@@ -8,5 +8,5 @@ LTSpice is a wonderful circuit simulator, but it doesn't include a lot of parts 
 ## Parts
 
 * Transistors
-** MOSFETs
-*** 2N7000
+  * MOSFETs
+    * 2N7000
