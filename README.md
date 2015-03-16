@@ -30,5 +30,5 @@ LTSpice is a wonderful circuit simulator, but it doesn't include a lot of parts 
   * LM358 (dual) / LM324 (quad)
     * The built-in LT-specific (upgraded) equivalent are the LT1013 (dual) / LT1014 (quad)
 * Switched-capacitor voltage converters
-  * ICL7660
+  * (ICL7660)[http://www.intersil.com/en/products/power-management/isolated-power/charge-pumps/ICL7660.html]
     * The built-in LT-specific (upgraded) equivalent is the LTC1044
