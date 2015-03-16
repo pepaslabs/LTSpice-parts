@@ -5,7 +5,7 @@ LTSpice is a wonderful circuit simulator, but it doesn't include a lot of parts 
 
 **This github project aims to be both a collection of these common "jellybean" components, as well as instructions on how to use them in LTSpice.**
 
-## Parts
+## Parts available in this repo:
 
 * Transistors
   * MOSFETs
@@ -16,3 +16,14 @@ LTSpice is a wonderful circuit simulator, but it doesn't include a lot of parts 
     * P-channel, TO-92
       * BS250
         * [Philips](http://web.rfoe.net:8000/ziliaoxiazai/PHILIPS/models/spicespar/data/bs250.html)
+
+## Parts built-in to LTSpice (and LT equivalents)
+* Transistors
+  * BJTs
+    * NPN, TO-92
+      * 2N3904 (comes with LTSpice)
+    * PNP, TO-92
+      * 2N3906 (comes with LTSpice)
+* Op amps
+  * LM358 (dual) / LM324 (quad)
+    * The built-in LT-specific (upgraded) equivalent is the LT1013 (dual) / LT1014 (quad)
