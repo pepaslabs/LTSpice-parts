@@ -28,4 +28,4 @@ LTSpice is a wonderful circuit simulator, but it doesn't include a lot of parts 
         * comes with LTSpice
 * Op amps
   * LM358 (dual) / LM324 (quad)
-    * The built-in LT-specific (upgraded) equivalent is the LT1013 (dual) / LT1014 (quad)
+    * The built-in LT-specific (upgraded) equivalent are the LT1013 (dual) / LT1014 (quad)
