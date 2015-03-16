@@ -9,5 +9,5 @@ LTSpice is a wonderful circuit simulator, but it doesn't include a lot of parts 
 
 * Transistors
   * MOSFETs
-    * 2N7000 [(LTSpice tutorial)](https://github.com/pepaslabs/LTSpice-parts/wiki/2N7000)
+    * 2N7000 ([LTSpice tutorial](https://github.com/pepaslabs/LTSpice-parts/wiki/2N7000))
     * 
