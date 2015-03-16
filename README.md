@@ -25,3 +25,5 @@ why aren't github relative links from README.md to the wiki working correctly?
 * [2N7000](wiki/2N7000)
 * [2N7000](wiki/2N7000.md)
 * [2N7000](https://github.com/pepaslabs/LTSpice-parts/wiki)
+* [2N7000](https://github.com/pepaslabs/LTSpice-parts/wiki/2N7000)
+ 
