@@ -21,9 +21,11 @@ LTSpice is a wonderful circuit simulator, but it doesn't include a lot of parts 
 * Transistors
   * BJTs
     * NPN, TO-92
-      * 2N3904 (comes with LTSpice)
+      * 2N3904
+        * comes with LTSpice
     * PNP, TO-92
-      * 2N3906 (comes with LTSpice)
+      * 2N3906
+        * comes with LTSpice
 * Op amps
   * LM358 (dual) / LM324 (quad)
     * The built-in LT-specific (upgraded) equivalent is the LT1013 (dual) / LT1014 (quad)
