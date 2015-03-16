@@ -10,4 +10,4 @@ LTSpice is a wonderful circuit simulator, but it doesn't include a lot of parts 
 * Transistors
   * MOSFETs
     * N-channel, TO-92
-      * 2N7000 (NXP, On-Semi) ([LTSpice tutorial](https://github.com/pepaslabs/LTSpice-parts/wiki/2N7000))
+      * 2N7000 ([NXP](http://www.nxp.com/documents/spice_model/2N7000.LIB), [On-Semi](http://www.onsemi.com/pub_link/Collateral/2N7000.REV0.LIB)) ([LTSpice tutorial](https://github.com/pepaslabs/LTSpice-parts/wiki/2N7000))
