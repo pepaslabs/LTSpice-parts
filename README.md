@@ -5,7 +5,7 @@ LTSpice is a wonderful circuit simulator, but it doesn't include a lot of parts 
 
 **This github project aims to be both a collection of these common "jellybean" components, as well as instructions on how to use them in LTSpice.**
 
-## Parts available in this repo:
+# Parts available in this repo:
 
 * Transistors
   * MOSFETs
@@ -20,7 +20,7 @@ LTSpice is a wonderful circuit simulator, but it doesn't include a lot of parts 
   * LM324 (quad) ([LTSpice tutorial](https://github.com/pepaslabs/LTSpice-parts/wiki/LM324))
     * [TI](http://www.ti.com/lit/zip/sloj043)
 
-## Parts built-in to LTSpice (and LT equivalents)
+# Parts built-in to LTSpice (and LT equivalents)
 * Transistors
   * BJTs
     * NPN, TO-92
@@ -35,3 +35,6 @@ LTSpice is a wonderful circuit simulator, but it doesn't include a lot of parts 
 * Switched-capacitor voltage converters
   * [ICL7660](http://www.intersil.com/en/products/power-management/isolated-power/charge-pumps/ICL7660.html)
     * The built-in LT-specific (upgraded) equivalent is the LTC1044
+
+# Models for parts which come with LTSpice
+* Switch ([LTSpice tutorial](https://github.com/pepaslabs/LTSpice-parts/wiki/switch))
