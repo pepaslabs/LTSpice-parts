@@ -1,0 +1,1 @@
+.model SW SW(Ron=1u Vt=.5 Vh=0 Lser=0 Vser=0)
