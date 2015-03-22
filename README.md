@@ -14,8 +14,11 @@ LTSpice is a wonderful circuit simulator, but it doesn't include a lot of parts 
         * [NXP](http://www.nxp.com/documents/spice_model/2N7000.LIB)
         * [On-Semi](http://www.onsemi.com/pub_link/Collateral/2N7000.REV0.LIB)
     * P-channel, TO-92
-      * BS250
+      * BS250 ([LTSpice tutorial](https://github.com/pepaslabs/LTSpice-parts/wiki/BS250))
         * [Philips](http://web.rfoe.net:8000/ziliaoxiazai/PHILIPS/models/spicespar/data/bs250.html)
+* Op amps
+  * LM324 (quad) ([LTSpice tutorial](https://github.com/pepaslabs/LTSpice-parts/wiki/LM324))
+    * [TI](http://www.ti.com/lit/zip/sloj043)
 
 ## Parts built-in to LTSpice (and LT equivalents)
 * Transistors
